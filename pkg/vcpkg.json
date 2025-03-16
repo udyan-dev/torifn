@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "curl",
+    "openssl"
+  ],
+  "builtin-baseline": "782ccc18d8b819cdef6794a6c03eb3d9f7cd04aa"
+}
